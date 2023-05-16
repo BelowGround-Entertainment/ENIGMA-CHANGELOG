@@ -1,3 +1,2 @@
-# ENIGMA-CHANGELOG
-All updates and changes are listed here.
-- PLEASE DIRECT TO THE CHANGELOG.md FILE.
+# ENIGMA Cummunity
+This repo is meant to serve as a place to view the changelog
