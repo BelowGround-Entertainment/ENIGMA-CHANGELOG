@@ -6,4 +6,4 @@
  - Enviroment (WIP)
 
 ## Changed
- - Removed unesecary items
+ - Removed unnecessary items
