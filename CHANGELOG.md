@@ -4,6 +4,7 @@
 
 ## Added
  - Enviroment (WIP)
-
+ - SFX (WIP)
+ - BG Music (WIP)
 ## Changed
  - Removed unnecessary items
