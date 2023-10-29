@@ -1,11 +1,11 @@
 # Changelog
 
-# [0.1] - ??
+# [0.1.0] - 10/29/2023
 
 ## Added
- - Enviroment (WIP) (Added- Floor texture, walls, Door, props"LOW POLY")
- - SFX (WIP)
- - BG Music (WIP)
+ - Basic Enviroment 
+ - Level 1 Basic version Low Poly
 ## Changed
  - Removed unnecessary items
  - Removed unnecessary sections
+
