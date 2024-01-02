@@ -12,7 +12,7 @@
 # [0.2.0] - 01/01/2024
 
 ## Added
- - Basic Enviroment Low Poly
+ - Basic Enviroment to 1st level (Low Poly)
    * Caffeteria 
    * Tutorial room
    * Mall hallway
