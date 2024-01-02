@@ -9,3 +9,15 @@
  - Removed unnecessary items
  - Removed unnecessary sections
 
+# [0.2.0] - 01/01/2024
+
+## Added
+ - Basic Enviroment Low Poly
+   * Caffeteria 
+   * Tutorial room
+   * Mall hallway
+   * Puzzle rooms
+- First person view with basic flashlight
+## Changed
+ - old first person camera
+
