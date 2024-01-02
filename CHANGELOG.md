@@ -13,10 +13,10 @@
 
 ## Added
  - Basic Enviroment Low Poly
-  * Caffeteria 
-  * Tutorial room
-  * Mall hallway
-  * Puzzle rooms
+   * Caffeteria 
+   * Tutorial room
+   * Mall hallway
+   * Puzzle rooms
 - First person view with basic flashlight
 ## Changed
  - old first person camera
